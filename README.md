@@ -11,9 +11,6 @@
 </picture>
 </summary>
 
-<br>
-<a href="https://atulcode.com"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=440&lines=Software+Developer;React+Native+Developer;Full-Stack+Engineer" alt="Typing SVG" /></a>
-
 <details>
 <summary>👤 About</summary>
 
