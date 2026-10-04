@@ -1,10 +1,10 @@
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Atul%20Lilhare&fontSize=42&fontAlignY=35&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=heyAtul&fontSize=42&fontAlignY=35&animation=twinkling" width="100%" />
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/AT00L">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=520&lines=SDE-2+at+CUBE;MERN+stack+developer;React+Native+developer;Full-stack+engineer;I+build+things+that+ship." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=520&lines=SDE-2;MERN+stack+developer;React+Native+developer;Full-stack+engineer;I+build+things+that+ship." alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 </p>
 
 ### 👋 About me
-- 💼 SDE-2 at [CUBE](https://cube.ms), building since 2022
+- 💼 SDE-2, building since 2022
 - 📱 React Native & Expo apps for iOS and Android
 - 🌐 Web apps in React, APIs in Node.js & Express
 
