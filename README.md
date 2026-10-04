@@ -7,7 +7,7 @@
 <details>
 <summary>
 <picture>
-  <img src="assets/dumbbell.svg" width="480" alt="Atul Lilhare, Software Developer, lifting the MERN stack. Tap the dumbbell to unlock profile details." />
+  <img src="assets/dumbbell.svg" width="480" alt="Atul Lilhare, Software Developer for web, mobile, backend and cloud. Tap the dumbbell to unlock profile details." />
 </picture>
 </summary>
 
@@ -25,7 +25,7 @@ const Atul = () => (
     role="Software Developer"
     since={2022}
     builds={['iOS & Android apps', 'Web apps', 'REST APIs']}
-    stack="MERN + React Native"
+    stack={['React', 'React Native', 'Node.js', 'TypeScript', 'AWS']}
     shipped="A Chrome extension, live on the Web Store"
     portfolio="https://atulcode.com"
     openTo="Building something together"
