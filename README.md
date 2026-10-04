@@ -8,7 +8,7 @@
 <summary>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dumbbell-dark.svg" />
-  <img src="assets/dumbbell-light.svg" width="480" alt="Atul Lilhare, Software Developer. Lift the dumbbell to unlock profile details." />
+  <img src="assets/dumbbell-light.svg" width="480" alt="Atul Lilhare, Software Developer, lifting the MERN stack. Tap the dumbbell to unlock profile details." />
 </picture>
 </summary>
 
