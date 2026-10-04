@@ -1,49 +1,146 @@
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Atul%20Lilhare&fontSize=42&fontAlignY=35&animation=twinkling" width="100%" />
-
-<!-- Typing animation -->
 <p align="center">
-  <a href="https://github.com/heyAtul">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=520&lines=Software+Developer;MERN+Stack+Developer;React+Native+Developer;Full-Stack+Engineer;I+Build+Things+That+Ship." alt="Typing SVG" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=heyAtul&style=flat-square&color=3b82f6&label=Profile+views" alt="Profile views" />
 </p>
 
-<!-- Profile view counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=heyAtul&label=Profile%20views&color=7ee787&style=flat" alt="profile views" />
-  <a href="https://atulcode.com"><img src="https://img.shields.io/badge/Portfolio-atulcode.com-7ee787?logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/atul-lilhare-27478b149"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/MaiAtulHoon/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:442atulilhare@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
 
-### 👋 About Me
-- 💼 Software Developer, building since 2022
-- 📱 React Native & Expo apps for iOS and Android
-- 🌐 Web apps in React, APIs in Node.js & Express
+<details>
+<summary>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dumbbell-dark.svg" />
+  <img src="assets/dumbbell-light.svg" width="480" alt="Atul Lilhare, Software Developer. Lift the dumbbell to unlock profile details." />
+</picture>
+</summary>
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,materialui,vite,electron,nodejs,express,mongodb,postgres,redis,firebase,git&perline=8" />
-</p>
+<br>
+<a href="https://atulcode.com"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=440&lines=Hey%2C+I%27m+Atul;Software+Developer;MERN+Stack+Developer;React+Native+Developer;Full-Stack+Engineer" alt="Typing SVG" /></a>
 
-### 🚀 Projects
+<details>
+<summary>👤 About</summary>
+
+<div align="left">
+
+```jsx
+const Atul = () => (
+  <Developer
+    role="Software Developer"
+    since={2022}
+    builds={['iOS & Android apps', 'Web apps', 'REST APIs']}
+    stack="MERN + React Native"
+    shipped="A Chrome extension, live on the Web Store"
+    portfolio="https://atulcode.com"
+    openTo="Building something together"
+    onBug={() => fix()}
+  />
+);
+
+export default Atul;
+```
+
+</div>
+
+</details>
+
+<details>
+<summary>🧰 Stack</summary>
+<br>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" title="React Native" />
+      <img width="28" src="https://cdn.simpleicons.org/expo/000020/ffffff" alt="Expo" title="Expo" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" title="Android" />
+      <img width="28" src="https://cdn.simpleicons.org/apple/000000/ffffff" alt="iOS" title="iOS" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" />
+      <img width="28" src="https://cdn.simpleicons.org/googlemaps" alt="Google Maps" title="Google Maps" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web & Desktop</b></td>
+    <td>
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux Toolkit" title="Redux Toolkit" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="MUI" title="MUI" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" title="Electron" />
+      <img width="28" src="https://cdn.simpleicons.org/i18next" alt="i18next" title="i18next" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" />
+      <img width="28" src="https://cdn.simpleicons.org/express/000000/ffffff" alt="Express" title="Express" />
+      <img width="28" src="https://cdn.simpleicons.org/jsonwebtokens/000000/ffffff" alt="JWT" title="JWT" />
+      <img width="28" src="https://cdn.simpleicons.org/zod" alt="Zod" title="Zod" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" title="Redis" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td>
+      <img width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD" title="GitLab CI/CD" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" title="SonarQube" />
+      <img width="28" src="https://cdn.simpleicons.org/sentry/362D59/ffffff" alt="Sentry" title="Sentry" />
+      <img width="28" src="https://cdn.simpleicons.org/posthog" alt="PostHog" title="PostHog" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & Testing</b></td>
+    <td>
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
+      <img width="28" src="https://cdn.simpleicons.org/github/181717/ffffff" alt="GitHub" title="GitHub" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" alt="Vitest" title="Vitest" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" title="Cypress" />
+      <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" title="ESLint" />
+      <img width="28" src="https://cdn.simpleicons.org/prettier" alt="Prettier" title="Prettier" />
+      <img width="28" src="https://cdn.simpleicons.org/claude" alt="Claude Code" title="Claude Code" />
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary>🚀 Projects</summary>
+<br>
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/heyAtul/Portfolio">🎨 Portfolio</a></h3>
       My personal site. React 19 and Vite, with Lenis smooth scrolling and Motion for scroll-linked animation, tuned to stay at 60fps.
-      <br/><br/>
+      <br><br>
       <sub>React 19 · Vite · Motion · Lenis</sub>
-      <br/><br/>
+      <br><br>
       <a href="https://atulcode.com">Live</a> · <a href="https://github.com/heyAtul/Portfolio">Code</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/heyAtul/URLSHORTNER">🔗 URL Shortener</a></h3>
       A link shortener with user accounts. Sign up, log in, and manage your own short links with live click counts.
-      <br/><br/>
+      <br><br>
       <sub>Node.js · Express 5 · MongoDB · JWT · Vercel</sub>
-      <br/><br/>
+      <br><br>
       <a href="https://url.atulcode.com">Live</a> · <a href="https://github.com/heyAtul/URLSHORTNER">Code</a>
     </td>
   </tr>
@@ -51,21 +148,48 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/heyAtul/YourLabTest">🧪 YourLabTest</a></h3>
       A lab-test catalog browsable by category, with an admin view. React client and Express product API in one npm-workspaces monorepo.
-      <br/><br/>
+      <br><br>
       <sub>React · MUI · Tailwind · Express 5 · MongoDB</sub>
-      <br/><br/>
+      <br><br>
       <a href="https://github.com/heyAtul/YourLabTest">Code</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/heyAtul/DOM-Styler-Custom-CSS-Injector">🧩 Custom CSS Injector</a></h3>
       Chrome extension: pick any element on any site, write CSS for it, and have it reapplied on every visit, even after the site renames its classes.
-      <br/><br/>
-      <a href="https://chromewebstore.google.com/detail/custom-css-injector/aebiehgbcchamlofdpcmdlfohffohghn"><img src="https://img.shields.io/chrome-web-store/users/aebiehgbcchamlofdpcmdlfohffohghn?label=users&color=7ee787" alt="users" /></a>
-      <a href="https://chromewebstore.google.com/detail/custom-css-injector/aebiehgbcchamlofdpcmdlfohffohghn"><img src="https://img.shields.io/chrome-web-store/rating/aebiehgbcchamlofdpcmdlfohffohghn?color=7ee787" alt="rating" /></a>
-      <br/>
+      <br><br>
+      <a href="https://chromewebstore.google.com/detail/custom-css-injector/aebiehgbcchamlofdpcmdlfohffohghn"><img src="https://img.shields.io/chrome-web-store/users/aebiehgbcchamlofdpcmdlfohffohghn?label=users&color=3b82f6" alt="users" /></a>
+      <a href="https://chromewebstore.google.com/detail/custom-css-injector/aebiehgbcchamlofdpcmdlfohffohghn"><img src="https://img.shields.io/chrome-web-store/rating/aebiehgbcchamlofdpcmdlfohffohghn?color=3b82f6" alt="rating" /></a>
+      <br>
       <sub>Manifest V3 · JavaScript · DevTools API</sub>
-      <br/><br/>
+      <br><br>
       <a href="https://chromewebstore.google.com/detail/custom-css-injector/aebiehgbcchamlofdpcmdlfohffohghn">Chrome Web Store</a> · <a href="https://github.com/heyAtul/DOM-Styler-Custom-CSS-Injector">Code</a>
     </td>
   </tr>
 </table>
+</details>
+
+<details>
+<summary>😄 Dev joke</summary>
+<br>
+<sub><i>A new one every time the page loads.</i></sub>
+<br>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev joke" />
+</details>
+
+<details>
+<summary>📬 Contact</summary>
+<br>
+Got an app, a website or an API in mind? <a href="mailto:442atulilhare@gmail.com?subject=Hi%20Atul%2C%20nice%20to%20meet%20you!">Drop me an email</a>, or see more of my work at <a href="https://atulcode.com">atulcode.com</a>.
+<br><br>
+</details>
+
+</details>
+
+</div>
+
+<div align="center">
+  <a href="https://atulcode.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=3B82F6&logo=googlechrome&logoColor=FFFFFF&label=" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/atul-lilhare-27478b149"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  <a href="mailto:442atulilhare@gmail.com?subject=Hi%20Atul%2C%20nice%20to%20meet%20you!"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Email" /></a>
+  <a href="https://leetcode.com/u/MaiAtulHoon/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=FFA116&logo=LeetCode&logoColor=000000&label=" alt="LeetCode" /></a>
+</div>
