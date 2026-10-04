@@ -26,7 +26,6 @@ const Atul = () => (
     since={2022}
     builds={['iOS & Android apps', 'Web apps', 'REST APIs']}
     stack={['React', 'React Native', 'Node.js', 'TypeScript', 'AWS']}
-    shipped="A Chrome extension, live on the Web Store"
     portfolio="https://atulcode.com"
     openTo="Building something together"
     onBug={() => fix()}
