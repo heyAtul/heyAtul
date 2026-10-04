@@ -7,7 +7,7 @@
 <details>
 <summary>
 <picture>
-  <img src="assets/dumbbell.svg" width="480" alt="Atul Lilhare, Software Developer for web, mobile, backend and cloud. Tap the dumbbell to unlock profile details." />
+  <img src="assets/dumbbell.svg" width="480" alt="Software Developer for web, mobile, backend and cloud. Tap the dumbbell to unlock profile details." />
 </picture>
 </summary>
 
