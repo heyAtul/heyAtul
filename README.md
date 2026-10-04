@@ -4,20 +4,21 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/heyAtul">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=520&lines=SDE-2;MERN+stack+developer;React+Native+developer;Full-stack+engineer;I+build+things+that+ship." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=520&lines=Software+Developer;MERN+stack+developer;React+Native+developer;Full-stack+engineer;I+build+things+that+ship." alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Profile view counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=heyAtul&label=Profile%20views&color=7ee787&style=flat" alt="profile views" />
+  <a href="https://atulcode.com"><img src="https://img.shields.io/badge/Portfolio-atulcode.com-7ee787?logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/atul-lilhare-27478b149"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/MaiAtulHoon/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" /></a>
   <a href="mailto:442atulilhare@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" /></a>
 </p>
 
 ### 👋 About me
-- 💼 SDE-2, building since 2022
+- 💼 Software Developer, building since 2022
 - 📱 React Native & Expo apps for iOS and Android
 - 🌐 Web apps in React, APIs in Node.js & Express
 
@@ -35,7 +36,7 @@
       <br/><br/>
       <sub>React 19 · Vite · Motion · Lenis</sub>
       <br/><br/>
-      <a href="https://github.com/heyAtul/Portfolio">Code</a>
+      <a href="https://atulcode.com">Live</a> · <a href="https://github.com/heyAtul/Portfolio">Code</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/heyAtul/URLSHORTNER">🔗 URL Shortener</a></h3>
@@ -68,9 +69,3 @@
     </td>
   </tr>
 </table>
-
-<!-- Snake eating the contribution graph (built by .github/workflows/snake.yml) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heyAtul/heyAtul/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/heyAtul/heyAtul/output/github-snake.svg" />
-</picture>
