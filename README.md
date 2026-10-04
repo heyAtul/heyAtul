@@ -121,52 +121,6 @@ export default Atul;
 </details>
 
 <details>
-<summary>🚀 Projects</summary>
-<br>
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/heyAtul/Portfolio">🎨 Portfolio</a></h3>
-      My personal site. React 19 and Vite, with Lenis smooth scrolling and Motion for scroll-linked animation, tuned to stay at 60fps.
-      <br><br>
-      <sub>React 19 · Vite · Motion · Lenis</sub>
-      <br><br>
-      <a href="https://atulcode.com">Live</a> · <a href="https://github.com/heyAtul/Portfolio">Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/heyAtul/URLSHORTNER">🔗 URL Shortener</a></h3>
-      A link shortener with user accounts. Sign up, log in, and manage your own short links with live click counts.
-      <br><br>
-      <sub>Node.js · Express 5 · MongoDB · JWT · Vercel</sub>
-      <br><br>
-      <a href="https://url.atulcode.com">Live</a> · <a href="https://github.com/heyAtul/URLSHORTNER">Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/heyAtul/YourLabTest">🧪 YourLabTest</a></h3>
-      A lab-test catalog browsable by category, with an admin view. React client and Express product API in one npm-workspaces monorepo.
-      <br><br>
-      <sub>React · MUI · Tailwind · Express 5 · MongoDB</sub>
-      <br><br>
-      <a href="https://github.com/heyAtul/YourLabTest">Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/heyAtul/DOM-Styler-Custom-CSS-Injector">🧩 Custom CSS Injector</a></h3>
-      Chrome extension: pick any element on any site, write CSS for it, and have it reapplied on every visit, even after the site renames its classes.
-      <br><br>
-      <a href="https://chromewebstore.google.com/detail/custom-css-injector/aebiehgbcchamlofdpcmdlfohffohghn"><img src="https://img.shields.io/chrome-web-store/users/aebiehgbcchamlofdpcmdlfohffohghn?label=users&color=3b82f6" alt="users" /></a>
-      <a href="https://chromewebstore.google.com/detail/custom-css-injector/aebiehgbcchamlofdpcmdlfohffohghn"><img src="https://img.shields.io/chrome-web-store/rating/aebiehgbcchamlofdpcmdlfohffohghn?color=3b82f6" alt="rating" /></a>
-      <br>
-      <sub>Manifest V3 · JavaScript · DevTools API</sub>
-      <br><br>
-      <a href="https://chromewebstore.google.com/detail/custom-css-injector/aebiehgbcchamlofdpcmdlfohffohghn">Chrome Web Store</a> · <a href="https://github.com/heyAtul/DOM-Styler-Custom-CSS-Injector">Code</a>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details>
 <summary>😄 Dev joke</summary>
 <br>
 <sub><i>A new one every time the page loads.</i></sub>
