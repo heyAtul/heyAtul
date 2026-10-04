@@ -26,15 +26,48 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,materialui,vite,electron,nodejs,express,mongodb,postgres,redis,firebase,git&perline=8" />
 </p>
 
-### 📊 GitHub stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=heyAtul&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyAtul&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=heyAtul&theme=github-dark-blue&hide_border=true" />
-  <img height="165" src="https://leetcard.jacoblin.cool/MaiAtulHoon?theme=dark&font=Fira%20Code" />
-</p>
+### 🚀 Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/heyAtul/Portfolio">🎨 Portfolio</a></h3>
+      My personal site. React 19 and Vite, with Lenis smooth scrolling and Motion for scroll-linked animation, tuned to stay at 60fps.
+      <br/><br/>
+      <sub>React 19 · Vite · Motion · Lenis</sub>
+      <br/><br/>
+      <a href="https://github.com/heyAtul/Portfolio">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/heyAtul/URLSHORTNER">🔗 URL Shortener</a></h3>
+      A link shortener with user accounts. Sign up, log in, and manage your own short links with live click counts.
+      <br/><br/>
+      <sub>Node.js · Express 5 · MongoDB · JWT · Vercel</sub>
+      <br/><br/>
+      <a href="https://url.atulcode.com">Live</a> · <a href="https://github.com/heyAtul/URLSHORTNER">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/heyAtul/YourLabTest">🧪 YourLabTest</a></h3>
+      A lab-test catalog browsable by category, with an admin view. React client and Express product API in one npm-workspaces monorepo.
+      <br/><br/>
+      <sub>React · MUI · Tailwind · Express 5 · MongoDB</sub>
+      <br/><br/>
+      <a href="https://github.com/heyAtul/YourLabTest">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/heyAtul/DOM-Styler-Custom-CSS-Injector">🧩 Custom CSS Injector</a></h3>
+      Chrome extension: pick any element on any site, write CSS for it, and have it reapplied on every visit, even after the site renames its classes.
+      <br/><br/>
+      <a href="https://chromewebstore.google.com/detail/custom-css-injector/aebiehgbcchamlofdpcmdlfohffohghn"><img src="https://img.shields.io/chrome-web-store/users/aebiehgbcchamlofdpcmdlfohffohghn?label=users&color=7ee787" alt="users" /></a>
+      <a href="https://chromewebstore.google.com/detail/custom-css-injector/aebiehgbcchamlofdpcmdlfohffohghn"><img src="https://img.shields.io/chrome-web-store/rating/aebiehgbcchamlofdpcmdlfohffohghn?color=7ee787" alt="rating" /></a>
+      <br/>
+      <sub>Manifest V3 · JavaScript · DevTools API</sub>
+      <br/><br/>
+      <a href="https://chromewebstore.google.com/detail/custom-css-injector/aebiehgbcchamlofdpcmdlfohffohghn">Chrome Web Store</a> · <a href="https://github.com/heyAtul/DOM-Styler-Custom-CSS-Injector">Code</a>
+    </td>
+  </tr>
+</table>
 
 <!-- Snake eating the contribution graph (built by .github/workflows/snake.yml) -->
 <picture>
