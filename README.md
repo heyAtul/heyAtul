@@ -4,7 +4,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/heyAtul">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=520&lines=Software+Developer;MERN+stack+developer;React+Native+developer;Full-stack+engineer;I+build+things+that+ship." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=520&lines=Software+Developer;MERN+Stack+Developer;React+Native+Developer;Full-Stack+Engineer;I+Build+Things+That+Ship." alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,12 +17,12 @@
   <a href="mailto:442atulilhare@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" /></a>
 </p>
 
-### 👋 About me
+### 👋 About Me
 - 💼 Software Developer, building since 2022
 - 📱 React Native & Expo apps for iOS and Android
 - 🌐 Web apps in React, APIs in Node.js & Express
 
-### 🛠️ Tech stack
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,materialui,vite,electron,nodejs,express,mongodb,postgres,redis,firebase,git&perline=8" />
 </p>
